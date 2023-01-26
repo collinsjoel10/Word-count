@@ -20,7 +20,7 @@ Step 6: Number of words in the txt file is displayed as the output
 PROGRAM:
 ```
 ## PROGRAM TO COUNT THE NUMBER OF WORDS
-## DEVELOPED BY : AJAY ASWIN.M                                                                                                                                         ## REFERENCE NO :22009241
+## DEVELOPED BY : joel p                                                                                                                                       ## REFERENCE NO :22008934
 num_words=0
 with open('a.txt','r') as file1:
     for i in file1:
